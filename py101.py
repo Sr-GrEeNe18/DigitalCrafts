@@ -129,14 +129,34 @@
 
 # print(num)
 
-nums = [3, 4, 5, 7, 8]
+# nums = [3, 4, 5, 7, 8]
 
-nums2 = [4, 1, 2]
-print(len(nums))
+# nums2 = [4, 1, 2]
+# print(len(nums))
 
-nums.extend(nums2)
-print(len(nums))
-print(nums2[2])
+# nums.extend(nums2)
+# print(len(nums))
+# print(nums2[2])
+
+# newtodo = ['wash', 'clean', 'sleep']
+# # create a loop to read list
+
+# index = 0
+
+# while True:
+#     newTodo = input('enter a todo item >>')
+    
+#     if newTodo.lower() == 'stop' :
+#         break
+#     else:
+#         newtodo.append(newTodo)
+
+# while index < len(newtodo): # 3 < 2 (index can only go up to a value of two/ 0, 1, 2)
+#     newtodo[index] # 0 todos[0]
+#     print(f'{index}: {newtodo[index]}')
+#     index +=1 # 3   p
+
+
 
 
 
