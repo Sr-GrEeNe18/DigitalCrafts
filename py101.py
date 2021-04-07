@@ -47,9 +47,30 @@
 # print("outside of our condition")
 
 
-count = 0 
+# count = 0 
 
-while count < 10:
-    print(f'The count is {count}')
+# while count < 10:
+#     print(f'The count is {count}')
 
+answer = ''
+
+while answer != 'when':
+    answer = input('Say when: ')
+    answer = answer.lower() #WHEN => when
+
+print("Cheese")
+
+x = 3
+
+x = x + 1
+
+x += 1
+
+x = x * 5
+
+x *= 5 #shorhand for multiplying
+
+x + x/5
+
+x /= 5 #shorthand for divison
 
