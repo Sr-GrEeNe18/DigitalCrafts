@@ -12,5 +12,10 @@ matrixsum = [[]], [[]]
 for indexone in range(2):
     matrixthree = []
     for indextwo in range(0, 2, 1):
-        matrixthree.append(matrixone[indexone][indextwo]) = matrixtwo[indexone][indextwo]
-        print(f'indexone: {indexone}, indextwo: {indextwo}')
+        matrixthree.append(matrixone[indexone][indextwo]) + matrixtwo[indexone][indextwo]) 
+
+        matrixsum.append(matrixthree)
+
+
+        print(matrixsum)
+
