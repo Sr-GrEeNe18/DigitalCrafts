@@ -1,6 +1,7 @@
 
  look into Python home
 
+<<<<<<< HEAD
 bill_amount = int(input('total bill amount?')
 
 service = input ('what the service level is)
@@ -28,4 +29,6 @@ print("%.2f is your bill" % total)
 
 
 
+=======
+>>>>>>> 4e5e98dfcdfde2b0cb9a68446bc999307ff80789
 
