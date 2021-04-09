@@ -1,6 +1,6 @@
 
-# 
-# 
+
+
 # listA = [1, 2, 3, 4, 5]
 
 # listB = listA
@@ -13,11 +13,11 @@
 # alphabet = "tltltlltltlltlltlltl"
 
 # index = 0
-# while index <= len(alphabet) - 1:
-#     print(alphabet[index])
-#     index += 1 
+while index <= len(alphabet) - 1:
+    print(alphabet[index])
+    index += 1 
 
-# constants = (3.14, 2.71)
+constants = (3.14, 2.71)
 
 # 
 

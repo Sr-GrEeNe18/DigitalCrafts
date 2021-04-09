@@ -1,22 +1,22 @@
-# declare a variable; by naming it 
-# age = 20 # (value of the age, not the name "age")
-# print(age)
-# price = 19.95
-# first_name =    code is easy to read when two words are connected with underscore
-# is_online = 
-# patient_name = "John Smith"
+declare a variable; by naming it 
+age = 20 # (value of the age, not the name "age")
+print(age)
+price = 19.95
+first_name =    code is easy to read when two words are connected with underscore
+is_online = 
+patient_name = "John Smith"
 
-# patient_age = 20
+patient_age = 20
 
-# new_patient = True
+new_patient = True
 
-# name = input("What is your name?")
+name = input("What is your name?")
 
-# print("Hello" + name) 
+print("Hello" + name) 
 
-# birth_year = input("Enter birth year: ")
+birth_year = input("Enter birth year: ")
 
-# age = 2020 - int(birth_year) 
+age = 2020 - int(birth_year) 
 
 # print(age)
 
