@@ -1,0 +1,54 @@
+    
+    body{
+        padding-top: 10px;
+    }
+    
+    
+    .conainer{
+        width: 80vw;
+        height: 90vh;
+
+        display: flex;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .flexContainerRow{
+        display: flex;
+        flex-direction: row;
+        height: 100%;
+        align-items: stretch;
+    }
+    .red{
+        background-color: red;
+    }
+    .white{
+        background-color: white;
+    }
+    .green{
+        background-color: green;
+    }
+    .blue{
+        background-color: blue;
+    }
+    .black{
+        background-color: black;
+    }
+    .flex{
+        flex: 1;
+    }
+    .flex{
+        flex: 2;
+    }
+    .flex{
+        flex: 3;
+    }
+    .flex{
+        flex: 4;
+    }
+    .flex{
+        flex: 5;
+    }
+    
+    
+    
